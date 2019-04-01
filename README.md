@@ -1,2 +1,2 @@
 # AT-Calculation
-AT system calculatioin by python
+AT system calculation by python
